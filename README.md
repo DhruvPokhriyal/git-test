@@ -19,3 +19,7 @@ I am creating this branch for Practice
 # Undoing Git
 
 I am Adding Some info here as well
+
+# Practing Nice Git Commits
+
+I am here practicing some nice git commits.
