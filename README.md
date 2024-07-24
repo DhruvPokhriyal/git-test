@@ -23,3 +23,7 @@ I am Adding Some info here as well
 # Practing Nice Git Commits
 
 I am here practicing some nice git commits.
+
+# Checking Commit Features
+
+I am Checking Some of Git Commit Features here with this.
